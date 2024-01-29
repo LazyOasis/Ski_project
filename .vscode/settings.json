@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ski_project.sln"
+    "dotnet.defaultSolution": "Ski_project.sln"
 }
